@@ -1,2 +1,2 @@
-# fastai-ml-lessons
-notebooks from the the fast.ai ML for coders course
+# ML-lessons
+notebooks implementing various models on datasets
